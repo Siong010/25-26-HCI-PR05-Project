@@ -10,7 +10,7 @@ Siti Noor Hidayah Binti Mad Akhir	SX230266ECJHS04<br>
 Saeed Bin Abdulrahman Saeed Basalama	SX230800ECJHS04<br>
 Muhammad Arshad Bin Muhammad Omar	SX230796ECJHS04<br>
 
-=====================================================================================
+==========================================================================================
 
 ## 📂 **Our Projects & Final Video**
 Here are the link to the projects and video that we've worked on:  
