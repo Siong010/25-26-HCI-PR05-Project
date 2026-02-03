@@ -18,9 +18,10 @@ Here are the link to the projects and video that we've worked on:
 | 🔥 **Project**      | 📄 **Description**                  | 🚀 **Live Demo**                                       |
 |----------------------|-------------------------------------|---------------------------------------------------------|
 | 📝 **Project 1**    | Project Proposal                    | [View Project](https://github.com/Siong010/25-26-HCI-PR05-Project/blob/main/PR05-Project1.pdf) |
-| 📝 **Project 2**    | Establish Requirement               | [View Project](https://github.com/Siong010/25-26-HCI-PR05-Project/blob/main/PR05-Project2.pdf)        |
-| 📝 **Project 3**    | Conceptual & Physical Design        | [View Project](https://github.com/Siong010/25-26-HCI-PR05-Project/blob/main/PR05-Project3.pdf)        |
-| 📝 **Project 4**    | Prototyping & Evaluation            | [View Project](https://github.com/Siong010/25-26-HCI-PR05-Project/blob/main/PR05-Project4.pdf)        |
-| 🖥️ **Video**        | Final Video                         | [View Project](https://youtu.be/mHJBJaRtMtg)        |
+| 📝 **Project 2**    | Establish Requirement               | [View Project](https://github.com/Siong010/25-26-HCI-PR05-Project/blob/main/PR05-Project2.pdf) |
+| 📝 **Project 3**    | Conceptual & Physical Design        | [View Project](https://github.com/Siong010/25-26-HCI-PR05-Project/blob/main/PR05-Project3.pdf) |
+| 📝 **Project 4**    | Prototyping & Evaluation            | [View Project](https://github.com/Siong010/25-26-HCI-PR05-Project/blob/main/PR05-Project4.pdf) |
+| 🖥️ **Video**        | Final Video                         | [View Video](https://youtu.be/mHJBJaRtMtg) |
+| 💎 **Prototype**    | Prototype                           | [View Prototype](https://www.figma.com/make/UlyNq9oRMC5jIIq3IuTpKm/AiPro-Mobile-Prototype-Design--Ai-ver.---Lee-?p=f&t=djjb12jfjpV7RBc6-0) |
 
 ** **
