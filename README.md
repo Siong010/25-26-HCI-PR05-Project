@@ -15,7 +15,7 @@ Muhammad Arshad Bin Muhammad Omar	SX230796ECJHS04<br>
 ## 📂 **Our Projects & Final Video**
 Here are the link to the projects and video that we've worked on:  
 
-| 🔥 **Project**      | 📄 **Description**                  | 🚀 **Live Demo**                                       |
+| 🔥 **Project**      | 📄 **Description**                  | 🚀 **Links**                                       |
 |----------------------|-------------------------------------|---------------------------------------------------------|
 | 📝 **Project 1**    | Project Proposal                    | [View Project](https://github.com/Siong010/25-26-HCI-PR05-Project/blob/main/PR05-Project1.pdf) |
 | 📝 **Project 2**    | Establish Requirement               | [View Project](https://github.com/Siong010/25-26-HCI-PR05-Project/blob/main/PR05-Project2.pdf) |
